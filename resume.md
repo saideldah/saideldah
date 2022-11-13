@@ -1,4 +1,4 @@
-# Resume
+# **Resume**
 
 > I am an energetic Software Engineer with 10+ years of professional experience developing robust code for high-volume businesses. Worked on 8 big enterprise projects and implemented more than 12 business-to-consumer apps and websites. I am a result-oriented, dependable, enthusiastic team player, and deep creative thinker.
 > 
@@ -88,10 +88,14 @@
 
 ## ****Senior Software Engineer (L3)****
 
-🏬 **Wayfair ***
+🏬 **Wayfair**
+
 📍 Berlin, Germany
+
 📅 12/2019 - Present
-An e-commerce company that sells furniture and home goods. Their digital platform offers 14 million items from more than 11,000 global suppliers.*
+
+>An e-commerce company that sells furniture and home goods. Their digital platform offers 14 million items from more than 11,000 global suppliers.
+
 
 ***Achievements**:*
 
@@ -110,9 +114,12 @@ sessions to help team members be open to giving and receiving feedback.
 ## ****Senior Full Stack Software Engineer****
 
 🏬 **CME Offshore**
-*📍 Beirut, Lebanon
+
+📍 Beirut, Lebanon
+
 📅 12/2017 - 11/2019
-Multi-national, technology firm provides end-to-end engineering solutions, from consulting to design and development, across hardware and software.*
+
+>Multi-national, technology firm provides end-to-end engineering solutions, from consulting to design and development, across hardware and software.
 
 ***Achievements**:*
 
@@ -123,9 +130,12 @@ Multi-national, technology firm provides end-to-end engineering solutions, from 
 ## ****Full Stack Software Engineer****
 
 🏬 **BSynchro**
-*📍 Beirut, Lebanon
+
+📍 Beirut, Lebanon
+
 📅 09/2016 - 11/2017
-BSynchro is a software company that provides web and mobile insurance solutions for insurance, reinsurance, and brokerage companies.*
+
+>BSynchro is a software company that provides web and mobile insurance solutions for insurance, reinsurance, and brokerage companies.
 
 ***Achievements**:*
 
@@ -136,9 +146,12 @@ BSynchro is a software company that provides web and mobile insurance solutions 
 ## ****Full Stack Software Engineer****
 
 🏬 **SETS Solutions**
-*📍 Beirut, Lebanon
+
+📍 Beirut, Lebanon
+
 📅 11/2014- 08/2016
-SETS is a leading information technology company in the Middle East that provides HR web applications.*
+
+> SETS is a leading information technology company in the Middle East that provides HR web applications.
 
 ***Achievements**:*
 
@@ -149,9 +162,12 @@ SETS is a leading information technology company in the Middle East that provide
 ## ****Full Stack Software Engineer****
 
 🏬 **SETS Solutions**
-*📍 Beirut, Lebanon
+
+📍 Beirut, Lebanon
+
 📅 11/2014- 08/2016
-SETS is a leading information technology company in the Middle East that provides HR web applications.*
+
+> SETS is a leading information technology company in the Middle East that provides HR web applications.
 
 ***Achievements**:*
 
@@ -162,9 +178,12 @@ SETS is a leading information technology company in the Middle East that provide
 ## **Web Developer**
 
 🏬 **Koein**
-*📍 Beirut, Lebanon
+
+📍 Beirut, Lebanon
+
 📅 03/2014- 08/2014
-digital agency, web design, web development, software and mobile apps development company*
+
+>digital agency, web design, web development, software and mobile apps development company.
 
 ***Achievements**:*
 
