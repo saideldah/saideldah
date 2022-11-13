@@ -5,9 +5,12 @@
 
 
 
-### Summary  
+
+### **Summary**  
+
 I am an energetic Software Engineer with 10+ years of professional experience developing robust code for high-volume businesses. Worked on 8 big enterprise projects and implemented more than 12 business-to-consumer apps and websites. I am a result-oriented, dependable, enthusiastic team player, and a deep creative thinker.
-  
+
+> **Please click [here](resume.md) to get the complete resume.**
   
 
 <br/>  
@@ -130,5 +133,3 @@ I am an energetic Software Engineer with 10+ years of professional experience de
             </a></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
