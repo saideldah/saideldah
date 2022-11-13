@@ -159,22 +159,6 @@ sessions to help team members be open to giving and receiving feedback.
 - Supported the managers to monitor the release progress by developing a reporting tool that displays and visualizes statistical information from the source control, which led to extract accurate KPIs for each software engineer in the company.
 - Reduced the cost of installation of the People365 HR Managment System from 2 days to 10 minutes by writing an automation script to install the system.
 
-## ****Full Stack Software Engineer****
-
-🏬 **SETS Solutions**
-
-📍 Beirut, Lebanon
-
-📅 11/2014- 08/2016
-
-> SETS is a leading information technology company in the Middle East that provides HR web applications.
-
-***Achievements**:*
-
-- Lowered the cost of the customization of recruitment section in People365 HR management system from 12 to 5 man-days, by implementing a customizable recruitment module using NoSql to store the denormalized data and dynamic form data of the job application form.
-- Supported the managers to monitor the release progress by developing a reporting tool that displays and visualizes statistical information from the source control, which led to extract accurate KPIs for each software engineer in the company.
-- Reduced the cost of installation of the People365 HR Managment System from 2 days to 10 minutes by writing an automation script to install the system.
-
 ## **Web Developer**
 
 🏬 **Koein**
