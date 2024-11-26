@@ -8,7 +8,7 @@
 
 ### **Summary**  
 
-I am an energetic Software Engineer with 10+ years of professional experience developing robust code for high-volume businesses. Worked on 8 big enterprise projects and implemented more than 12 business-to-consumer apps and websites. I am a result-oriented, dependable, enthusiastic team player, and a deep creative thinker.
+Senior Software Engineer and Tech Lead with 11+ years of experience leading teams in designing and delivering large-scale enterprise solutions. Proven track record of driving key projects from architectural design to implementation, focusing on scalability and business growth. Passionate about mentoring engineers, fostering cross-functional collaboration, and solving complex challenges. Seeking to transition into higher-level leadership roles to continue driving both technical innovation and strategic success.
 
 > **Please click [here](resume.md) to get the complete resume.**
   
