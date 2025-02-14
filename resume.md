@@ -30,12 +30,9 @@
 
 ## **Frameworks & Libraries**
 
+- Spring
 - .NET
 - Angular
-- Ionic
-- JQuery
-- EF Core.
-- Dapper
 
 ## **Programming Languages**
 
@@ -57,6 +54,7 @@
 - CSS/CSS3.
 - helms-chart.
 - YAML
+- Terraform
 
 ## **Utilities**
 
@@ -81,6 +79,7 @@
 ## **Cloud**
 
 - Google Cloud Platform (BigQuery, Functions, Dataflow, PubSub, Google Storage)
+- AWS
 
 ---
 
