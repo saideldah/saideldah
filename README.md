@@ -8,7 +8,11 @@
 
 ### **Summary**  
 
-Senior Software Engineer and Tech Lead with 11+ years of experience leading teams in designing and delivering large-scale enterprise solutions. Proven track record of driving key projects from architectural design to implementation, focusing on scalability and business growth. Passionate about mentoring engineers, fostering cross-functional collaboration, and solving complex challenges. Seeking to transition into higher-level leadership roles to continue driving both technical innovation and strategic success.
+With over 13 years of experience in software engineering, I specialize in designing and delivering scalable distributed systems, microservices, and cloud-based SaaS solutions. As a Lead Software Engineer, I drive architectural strategies, optimize system performance, and mentor and supervise engineers to build high-impact solutions.
+
+I have a strong background in enterprise software development, leading cross-functional teams, and fostering a culture of technical excellence. My expertise spans C#/.NET, Java/Spring, Python, Kubernetes, AWS and Google Cloud, with a growing focus on AI and machine learning. I am passionate about solving complex challenges, driving innovation, and transitioning into leadership roles.
+
+
 
 > **Please click [here](resume.md) to get the complete resume.**
   
