@@ -108,11 +108,18 @@ I have a strong background in enterprise software development, leading cross-fun
 If you would like to discuss opportunities, collaborations, or just have a chat, feel free to book an appointment with me. Click the link below to view my calendar and schedule a meeting:
 
 <div align="center">
-    <a href="https://calendar.app.google/HWPd2dqDtmGQURyM9" target="_blank" rel="noopener noreferrer">
+    <a href="https://calendar.app.google/HWPd2dqDtmGQURyM9" id="appointment-link">
         <img src="https://img.shields.io/badge/Book%20an%20Appointment-%231877F2.svg?&style=for-the-badge&logo=google-calendar&logoColor=white" 
         alt="Book an Appointment" style="margin-bottom: 5px;" />
     </a>
 </div>
+
+<script>
+    document.getElementById("appointment-link").addEventListener("click", function(event) {
+        event.preventDefault();
+        window.open(this.href, "_blank");
+    });
+</script>
 
 
 ---
