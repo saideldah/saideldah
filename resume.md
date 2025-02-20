@@ -18,7 +18,6 @@ I am passionate about solving **complex challenges, driving innovation, and tran
 - 📱 **Phone:** +49-1773993688  
 - 📧 **Email:** [said.eldah@gmail.com](mailto:said.eldah@gmail.com)  
 - 🔗 **LinkedIn:** [linkedin.com/in/saideldah](http://www.linkedin.com/in/saideldah/)  
-- 🔗 **GitHub:** [github.com/saideldah](https://github.com/saideldah)  
 
 ---
 
