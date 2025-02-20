@@ -1,11 +1,3 @@
-<div align="center">
-<img src="[https://rishavanand.github.io/static/images/greetings.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXlhY2o4ZDB3cHVpbjBtYzRqYzRxcmJ3dWdpbHZ6ZzVmcjluZGN5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GRPy8MKag9U1U88hzY/giphy.gif)" align="center" style="width: 100%" />
-</div>  
-  
-
-
-
-
 ### **Summary**  
 
 With over 13 years of experience in software engineering, I specialize in designing and delivering scalable distributed systems, microservices, and cloud-based SaaS solutions. As a Lead Software Engineer, I drive architectural strategies, optimize system performance, and mentor and supervise engineers to build high-impact solutions.
