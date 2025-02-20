@@ -104,20 +104,6 @@ I have a strong background in enterprise software development, leading cross-fun
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=saideldah&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=saideldah&&style=flat-square" align="center" />
@@ -126,12 +112,5 @@ I have a strong background in enterprise software development, leading cross-fun
 
 <br/>  
 
-<div align="center">
-            <a href="https://paypal.me/eldahsaid" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
-                    align="center"
-                />
-            </a></div>
-<br />
+
 
