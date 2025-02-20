@@ -28,11 +28,7 @@ I am passionate about solving **complex challenges, driving innovation, and tran
 - **Programming Languages:** C#, Java, Python, JavaScript, TypeScript, SQL, PowerShell, Shell  
 - **Web Technologies:** HTML/HTML5, CSS/CSS3, REST, SOAP  
 - **Frameworks & Libraries:** .NET, Spring, Angular  
-- **Architectural Patterns & Methodologies:**  
-  - Design Patterns  
-  - MVC  
-  - Microservices  
-  - Domain-Driven Design (DDD)  
+- **Architectural Patterns & Methodologies:** Design Patterns, MVC, Microservices, Domain-Driven Design (DDD)  
 
 ## **☁ Cloud & Infrastructure**
 - **Cloud Platforms:** Google Cloud Platform (GCP), AWS  
