@@ -11,6 +11,7 @@ I have a strong background in enterprise software development, leading cross-fun
 
 <br/>  
 
+---
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -77,7 +78,7 @@ I have a strong background in enterprise software development, leading cross-fun
 
 <br/>  
 
-
+---
 
 ## Connect with me  
 <div align="center">
@@ -95,7 +96,7 @@ I have a strong background in enterprise software development, leading cross-fun
 
 <br/>  
 
-
+---
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=saideldah&&style=flat-square" align="center" />
@@ -104,5 +105,15 @@ I have a strong background in enterprise software development, leading cross-fun
 
 <br/>  
 
+---
 
+## Book an Appointment
+
+If you would like to discuss opportunities, collaborations, or just have a chat, feel free to book an appointment with me. Click the link below to view my calendar and schedule a meeting:
+
+<div align="center">
+<a href="https://calendly.com/saideldah" target="_blank"><img src="https://img.shields.io/badge/Book%20an%20Appointment-%231877F2.svg?&style=for-the-badge&logo=calendly&logoColor=white" alt="Book an Appointment" style="margin-bottom: 5px;" /></a>
+</div>
+
+---
 
