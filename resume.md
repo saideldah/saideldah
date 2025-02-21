@@ -58,19 +58,19 @@ I am passionate about solving **complex challenges, driving innovation, and tran
 
 **Responsibilities**:
 
-•⁠  ⁠*Technical Leadership & Team Management:* Lead a team of engineers as a Tech Lead, driving technical decisions, setting best practices, and ensuring alignment with business objectives.
-•⁠  ⁠*Hands-on Problem Solving:* Design, implement, and optimise scalable solutions, debugging critical production issues to ensure system reliability.
-•⁠  ⁠*Feature Development & Releases:* Lead hands-on development, ensuring high-quality code and efficient release cycles while minimising tech debt.
-•⁠  ⁠*Scalable Architecture & APIs:* Build and enforce extensible services with clear APIs, proper data ownership, and a shift towards microservices.
-•⁠  ⁠*Technical Leadership & Mentorship:* Guide engineers through code reviews, design discussions, and training on best practices.
-•⁠  ⁠*Cross-Team Collaboration:* Enable external teams to contribute efficiently, improving system design and development processes.
+- ⁠*Technical Leadership & Team Management:* Lead a team of engineers as a Tech Lead, driving technical decisions, setting best practices, and ensuring alignment with business objectives.
+- ⁠*Hands-on Problem Solving:* Design, implement, and optimise scalable solutions, debugging critical production issues to ensure system reliability.
+- ⁠*Feature Development & Releases:* Lead hands-on development, ensuring high-quality code and efficient release cycles while minimising tech debt.
+- ⁠*Scalable Architecture & APIs:* Build and enforce extensible services with clear APIs, proper data ownership, and a shift towards microservices.
+- ⁠*Technical Leadership & Mentorship:* Guide engineers through code reviews, design discussions, and training on best practices.
+- ⁠*Cross-Team Collaboration:* Enable external teams to contribute efficiently, improving system design and development processes.
 
-**Achievements:
+**Achievements**:
 
-•⁠  ⁠Led the design and implementation of the Network Ingestion Engine while actively contributing to development, replacing a legacy system with an automated, self-service solution. This streamlined carrier data ingestion, reducing rollout time from 2 days to 1 hour, eliminating $100K in annual engineering costs, and saving $13M by retiring the legacy database.
-•⁠  ⁠Led the technical strategy and execution for the Carrier Data Validation Engine, designing a scalable chain-of-responsibility pattern for seamless validation integration. This solution reduced carrier data errors by 90%, prevented operational disruptions, and saved Wayfair approximately $6 million annually.
-•⁠  ⁠Migrated five transit network applications and two databases to Google Cloud Platform, implementing automated Terraform-based infrastructure to ensure zero downtime. This initiative reduced costs by $15M annually, contributing to a projected $300M in total savings.
-•⁠  ⁠*Established a standardized data architecture* for Wayfair’s carrier network, consolidating disparate data models into a single source of truth. This eliminated the need for direct carrier integrations, reducing maintenance overhead and streamlining interactions with downstream systems, significantly enhancing engineering efficiency.
+- Led a team of 4 engineers in the design and implementation of the Network Ingestion Engine while actively contributing to development, replacing a legacy system with an automated, self-service solution. This streamlined carrier data ingestion, reducing rollout time from 2 days to 1 hour, eliminating $100K in annual engineering costs, and saving $13M by retiring the legacy database.
+- ⁠Led the technical strategy and execution for the Carrier Data Validation Engine, designing a scalable chain-of-responsibility pattern for seamless validation integration. This solution reduced carrier data errors by 90%, prevented operational disruptions, and saved Wayfair approximately $6 million annually.
+- ⁠Migrated five transit network applications and two databases to Google Cloud Platform, implementing automated Terraform-based infrastructure to ensure zero downtime. This initiative reduced costs by $15M annually, contributing to a projected $300M in total savings.
+- *Established a standardized data architecture* for Wayfair’s carrier network, consolidating disparate data models into a single source of truth. This eliminated the need for direct carrier integrations, reducing maintenance overhead and streamlining interactions with downstream systems, significantly enhancing engineering efficiency.
 
 **Teck Stack**: Java/SpringBoot, C#/.NET, Python, SQL Server, Postgres, GCP, ElasticSearch, Kibana, BuildKite, Kubernetes, Docker, GIT.
 
