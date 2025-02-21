@@ -54,7 +54,7 @@ I am passionate about solving **complex challenges, driving innovation, and tran
 
 ## *Software Engineer III (L3)*
 
-🏬 *Wayfair** |📍 Berlin, Germany | 📅 12/2019 - Present*
+🏬 *Wayfair* |📍 Berlin, Germany | 📅 12/2019 - Present
 
 **Responsibilities**:
 
