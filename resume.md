@@ -52,22 +52,27 @@ I am passionate about solving **complex challenges, driving innovation, and tran
 
 # **👩🏻‍💻 Work Experience**
 
-## **Senior Software Engineer (L3) | Wayfair**
-📍 Berlin, Germany  
-📅 **12/2019 - Present**  
+## *Software Engineer III (L3)*
 
-> **Wayfair** is an e-commerce company that sells furniture and home goods, offering 14 million items from more than 11,000 global suppliers.
+🏬 *Wayfair** |📍 Berlin, Germany | 📅 12/2019 - Present*
 
-### **Key Achievements:**
-- Led multiple projects by participating in **short/long-term planning**, being responsible for **project deliveries**, and running **agile meetings** (planning, standups, retrospectives, sprint demos).
-- **Mentored & trained** new developers, reviewed their work, and ensured best practices were applied.
-- Worked on **OKRs and roadmaps** with product managers to ensure deliverability.
-- Built **strong relationships with stakeholders** and cross-functional teams to facilitate collaboration.
-- Fostered a **culture of trust, transparency, and feedback**, organizing tech-learning sessions.
-- Led the **architectural design & implementation** of the **Wayfair Global Carrier Platform (WGCP) - Transit Network**.
-- Created the **Easy Kafka library**, reducing Kafka Consumer/Producer implementation complexity in **C#**.
-- Developed a **tool that generates Avro files** from C#, widely used across the company.
-- Built a **configurable data projector** to stream Kafka data to GCP BigQuery with minimal setup.
+**Responsibilities**:
+
+•⁠  ⁠*Technical Leadership & Team Management:* Lead a team of engineers as a Tech Lead, driving technical decisions, setting best practices, and ensuring alignment with business objectives.
+•⁠  ⁠*Hands-on Problem Solving:* Design, implement, and optimise scalable solutions, debugging critical production issues to ensure system reliability.
+•⁠  ⁠*Feature Development & Releases:* Lead hands-on development, ensuring high-quality code and efficient release cycles while minimising tech debt.
+•⁠  ⁠*Scalable Architecture & APIs:* Build and enforce extensible services with clear APIs, proper data ownership, and a shift towards microservices.
+•⁠  ⁠*Technical Leadership & Mentorship:* Guide engineers through code reviews, design discussions, and training on best practices.
+•⁠  ⁠*Cross-Team Collaboration:* Enable external teams to contribute efficiently, improving system design and development processes.
+
+**Achievements:
+
+•⁠  ⁠Led the design and implementation of the Network Ingestion Engine while actively contributing to development, replacing a legacy system with an automated, self-service solution. This streamlined carrier data ingestion, reducing rollout time from 2 days to 1 hour, eliminating $100K in annual engineering costs, and saving $13M by retiring the legacy database.
+•⁠  ⁠Led the technical strategy and execution for the Carrier Data Validation Engine, designing a scalable chain-of-responsibility pattern for seamless validation integration. This solution reduced carrier data errors by 90%, prevented operational disruptions, and saved Wayfair approximately $6 million annually.
+•⁠  ⁠Migrated five transit network applications and two databases to Google Cloud Platform, implementing automated Terraform-based infrastructure to ensure zero downtime. This initiative reduced costs by $15M annually, contributing to a projected $300M in total savings.
+•⁠  ⁠*Established a standardized data architecture* for Wayfair’s carrier network, consolidating disparate data models into a single source of truth. This eliminated the need for direct carrier integrations, reducing maintenance overhead and streamlining interactions with downstream systems, significantly enhancing engineering efficiency.
+
+**Teck Stack**: Java/SpringBoot, C#/.NET, Python, SQL Server, Postgres, GCP, ElasticSearch, Kibana, BuildKite, Kubernetes, Docker, GIT.
 
 ---
 
