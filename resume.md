@@ -1,144 +1,138 @@
-# **📌 Resume**
+# Said El Dah
 
-## **📄 Summary**
-With over **13 years of experience** in software engineering, I specialize in designing and delivering **scalable distributed systems, microservices, and cloud-based SaaS solutions**.  
-
-As a **Lead Software Engineer**, I drive architectural strategies, optimize system performance, and mentor and supervise engineers to build high-impact solutions.  
-
-I have a strong background in **enterprise software development, leading cross-functional teams, and fostering a culture of technical excellence**.  
-
-My expertise spans **C#/.NET, Java/Spring, Python, Kubernetes, AWS, and Google Cloud**, with a growing focus on **AI and machine learning**.  
-
-I am passionate about solving **complex challenges, driving innovation, and transitioning into leadership roles**.
+## 🚀 Lead Software Engineer
 
 ---
 
-# **📞 Contact Information**
-- 📍 **Location:** Berlin, Germany  
-- 📱 **Phone:** +49 177 3993688  
-- 📧 **Email:** [said.eldah@gmail.com](mailto:said.eldah@gmail.com)  
-- 🔗 **LinkedIn:** [linkedin.com/in/saideldah](http://www.linkedin.com/in/saideldah/)  
+## 📌 Summary
+
+Lead Software Engineer with **13+ years** of expertise in designing and scaling **distributed systems, microservices, and cloud-native architectures**. Proficient in **C#/.NET, Java/Spring Boot, Python, Kubernetes, and cloud platforms (AWS, GCP)**. Proven leadership in **technical strategy, cross-functional collaboration, and enterprise solutions optimization** for **scalability, cost reduction, and innovation**. Passionate about **AI/ML** and transforming complex architectures into **high-performance systems**.
 
 ---
 
-# **🛠 Technical Skills**
+## 📞 Contact Information
 
-## **🚀 Software Development & Architecture**
-- **Programming Languages:** C#, Java, Python, JavaScript, TypeScript, SQL, PowerShell, Shell  
-- **Web Technologies:** HTML/HTML5, CSS/CSS3, REST, SOAP  
-- **Frameworks & Libraries:** .NET, Spring, Angular  
-- **Architectural Patterns & Methodologies:** Design Patterns, MVC, Microservices, Domain-Driven Design (DDD)  
-
-## **☁ Cloud & Infrastructure**
-- **Cloud Platforms:** Google Cloud Platform (GCP), AWS  
-- **Infrastructure as Code (IaC):** Terraform, Helm Charts, YAML  
-- **Containerization & Orchestration:** Docker Containers, Kubernetes  
-
-## **⚙ DevOps & CI/CD**
-- **CI/CD Tools:** BuildKite  
-- **Configuration & Automation:** PowerShell, Shell Scripting  
-- **Servers & Hosting:** IIS, Apache  
-- **Messaging & Event Streaming:** Kafka  
-
-## **🗄 Databases & Storage**
-- **Relational Databases:** SQL Server, MySQL, PostgreSQL  
-- **NoSQL Databases:** MongoDB  
-
-## **📈 Agile & Project Management**
-- **Development Methodologies:** Agile (Scrum)  
-- **Team & Project Management:** Management  
+📍 **Berlin, Germany**  
+🔗 [LinkedIn](http://www.linkedin.com/in/saideldah/)  
+🔗 [GitHub](https://github.com/saideldah)
 
 ---
 
-# **👩🏻‍💻 Work Experience**
+## 🛠 Skills
 
-## *Software Engineer III (L3)*
+### **💻 Programming/Scripting Languages**
+- C#, Java, Python, JavaScript, TypeScript, PHP, PowerShell, Shell
 
-🏬 *Wayfair* |📍 Berlin, Germany | 📅 12/2019 - Present
+### **📦 Frameworks & Libraries**
+- Spring Boot, .NET, Angular
 
-**Responsibilities**:
+### **📝 Markup & Configuration**
+- HTML, CSS, Helm Chart, Terraform, YAML
 
-- ⁠*Technical Leadership & Team Management:* Lead a team of engineers as a Tech Lead, driving technical decisions, setting best practices, and ensuring alignment with business objectives.
-- ⁠*Hands-on Problem Solving:* Design, implement, and optimise scalable solutions, debugging critical production issues to ensure system reliability.
-- ⁠*Feature Development & Releases:* Lead hands-on development, ensuring high-quality code and efficient release cycles while minimising tech debt.
-- ⁠*Scalable Architecture & APIs:* Build and enforce extensible services with clear APIs, proper data ownership, and a shift towards microservices.
-- ⁠*Technical Leadership & Mentorship:* Guide engineers through code reviews, design discussions, and training on best practices.
-- ⁠*Cross-Team Collaboration:* Enable external teams to contribute efficiently, improving system design and development processes.
+### **🛠 Utilities & Tools**
+- Kafka, RabbitMQ, IIS, Apache, Docker, Kubernetes, Terminal, PowerShell, BuildKite (CI/CD)
 
-**Achievements**:
+### **🗄 Databases**
+- SQL Server, MySQL, Postgres, MongoDB, Redis, AeroSpike, ElasticSearch, Google BigQuery
 
-- Led a team of 4 engineers in the design and implementation of the Network Ingestion Engine while actively contributing to development, replacing a legacy system with an automated, self-service solution. This streamlined carrier data ingestion, reducing rollout time from 2 days to 1 hour, eliminating $100K in annual engineering costs, and saving $13M by retiring the legacy database.
-- ⁠Led the technical strategy and execution for the Carrier Data Validation Engine, designing a scalable chain-of-responsibility pattern for seamless validation integration. This solution reduced carrier data errors by 90%, prevented operational disruptions, and saved Wayfair approximately $6 million annually.
-- ⁠Migrated five transit network applications and two databases to Google Cloud Platform, implementing automated Terraform-based infrastructure to ensure zero downtime. This initiative reduced costs by $15M annually, contributing to a projected $300M in total savings.
-- *Established a standardized data architecture* for Wayfair’s carrier network, consolidating disparate data models into a single source of truth. This eliminated the need for direct carrier integrations, reducing maintenance overhead and streamlining interactions with downstream systems, significantly enhancing engineering efficiency.
+### **☁️ Cloud Services**
+- Google Cloud Platform (GCP), Amazon Web Services (AWS)
 
-**Teck Stack**: Java/SpringBoot, C#/.NET, Python, SQL Server, Postgres, GCP, ElasticSearch, Kibana, BuildKite, Kubernetes, Docker, GIT.
+### **🏗 Software Engineering & Architecture**
+- Design Patterns, MVC, REST, SOAP, Microservices, Domain-Driven Design
+- Scalability & Performance Optimization, Event-Driven Architecture, SOA, CQRS, Event Sourcing
+- API Design & Governance, Resilient & Fault-Tolerant Systems
+- Observability & Monitoring (Logging, Tracing, Metrics)
+- Security Best Practices (OAuth, JWT, API Security)
+- Enterprise Integration Patterns, CI/CD Pipelines & DevOps Practices
+- Containerization & Orchestration, Data Modeling & Database Optimization
 
----
-
-## **Senior Full Stack Software Engineer | CME Offshore**
-📍 Beirut, Lebanon  
-📅 **12/2017 - 11/2019**  
-
-> **CME Offshore** is a multi-national technology firm providing **end-to-end engineering solutions** across hardware and software.
-
-### **Key Achievements:**
-- Optimized **CPU utilization** for **25 APIs** in the **Subway Menu Manager** project from **100% to 5%** using **async/await**.
-- Implemented **architectural enhancements**, including **Repository/UnitOfWork patterns** and **Dependency Injection**.
-- Created an **automation script** to deploy the development environment, reducing setup time to **1 second**.
+### **👨‍💼 Technical & Team Management**
+- Agile, Scrum, Kanban, Technical Strategy, Architecture Decisions
+- Cross-Team Collaboration, Code Reviews, Mentorship, Technical Debt Management
+- Incident Resolution, Stakeholder Communication, Hiring & Onboarding
 
 ---
 
-## **Full Stack Software Engineer | BSynchro**
-📍 Beirut, Lebanon  
-📅 **09/2016 - 11/2017**  
+## **👩🏻‍💻 Work Experience**
 
-> **BSynchro** provides **web and mobile insurance solutions** for insurance, reinsurance, and brokerage companies.
+### **Lead Software Engineer / Software Engineer III (L3)**  
+🏬 **Wayfair** | 📅 **07/2022 - Present** | 📍 **Berlin, Germany**  
 
-### **Key Achievements:**
-- Reduced **new Insurance Product implementation costs** from **15 to 10 man-days** by developing a **reusable insurance setup module**.
-- Introduced **Web Performance Testing & Unit Testing**, improving project quality and reducing bugs by **50%**.
-- Enhanced the **pricing algorithm** using **creational design patterns**, reducing processing time by **75%**.
+**Achievements:**
+- Led a **cross-functional team of six engineers**, defining the **technical strategy** for the **Network Ingestion Engine**. Optimized **data processing 10x faster**, reducing processing time from **2 hours to 10 minutes**, driving **$13M in cost savings**.
+- Led the **Truck Lanes Optimization** project, integrating **route selection with truck management** for real-time transit data. Designed a system processing **3,000+ Kafka events/min at 99% availability**, saving **$40M annually**.
+- Led the **Carrier Data Validation Engine**, reducing **carrier data errors by 90%**, preventing disruptions, and saving **$6M annually**.
 
----
-
-## **Full Stack Software Engineer | SETS Solutions**
-📍 Beirut, Lebanon  
-📅 **11/2014 - 08/2016**  
-
-> **SETS Solutions** is a leading **HR software company** in the Middle East.
-
-### **Key Achievements:**
-- Lowered the **cost of recruitment module customization** from **12 to 5 man-days** by leveraging **NoSQL** for dynamic job application storage.
-- Developed a **reporting tool** that visualized source control statistics, allowing better monitoring of **release progress** and **KPIs**.
-- Automated the **installation of the People365 HR Management System**, reducing deployment time from **2 days to 10 minutes**.
+**Tech Stack:** Java/SpringBoot, C#/.NET, Python, SQL Server, Postgres, Aerospike, Redis, BigQuery, Kafka, GCP, ElasticSearch, Kubernetes, Docker, BuildKite.
 
 ---
 
-## **Web Developer | Koein**
-📍 Beirut, Lebanon  
-📅 **03/2014 - 08/2014**  
+### **Software Engineer II (L2)**  
+🏬 **Wayfair** | 📅 **12/2019 - 06/2022** | 📍 **Berlin, Germany**  
 
-> **Koein** is a digital agency specializing in **web and mobile app development**.
+**Achievements:**
+- Led the **Transit Network Data Pipeline**, processing **2,000+ events/min at 99% availability** for **real-time BigQuery analytics**, cutting **$35M–$50M in transportation costs annually**.
+- Migrated five transit network applications to **Google Cloud Platform**, reducing costs by **$15M annually**.
+- Standardized **Wayfair’s carrier transit data**, saving **$4M in development costs** and streamlining **data access via a unified API**.
 
-### **Key Achievements:**
-- Developed **4 high-traffic websites** (100k+ users) using **C#, MVC, HTML, CSS, JavaScript**.
-- Integrated **data from various back-end services** using PHP and C#.
-- Designed & implemented **website layouts and user interfaces**.
-
----
-
-# **🗨️ Languages**
-- **English:** Full professional proficiency  
-- **German:** Elementary proficiency  
-- **Arabic:** Native or bilingual proficiency  
+**Tech Stack:** Java/SpringBoot, C#/.NET, Python, SQL Server, Postgres, Aerospike, Redis, BigQuery, Kafka, GCP, ElasticSearch, Kubernetes, Docker, BuildKite.
 
 ---
 
-# **🎓 Education**
+### **Senior Full Stack Software Engineer**  
+🏬 **CME Offshore** | 📅 **12/2019 - 06/2022** | 📍 **Beirut, Lebanon**  
 
-## **Master’s Degree | Information Systems and Data Intelligence**  
-🏫 **Lebanese University - Faculty of Sciences**  
+**Key Projects:**
+- **(Contractor with Subway)** Built a **large-scale menu tracking microservice**, cutting **menu update time from hours to seconds** and improving **order accuracy by 40%** across **37,000+ locations**.
+- **(Contractor with Cigna)** Developed an **ML-driven claims validation microservice**, reducing **manual reviews by 85%**, saving **$30M annually**.
 
-## **Bachelor’s Degree | Information Systems and Software Engineering**  
-🏫 **Damascus University - Faculty of Information Technology Engineering**  
+**Tech Stack:** Java/SpringBoot, C#/.NET, SQL Server, Angular, Redis, RabbitMQ, AWS, ElasticSearch, Jenkins, Docker.
+
+---
+
+### **Full Stack Software Engineer**  
+🏬 **BSynchro** | 📅 **12/2017 - 11/2019** | 📍 **Beirut, Lebanon**  
+
+- Developed a **high-performance approval pipeline** for **SGBL Bank**, streamlining **10,000+ approvals/month**.
+- Built a **policy issuance pipeline** for **Libano-Suisse Insurance**, processing **7,000+ policies annually**.
+
+**Tech Stack:** C#/.NET, Angular, SQL Server, IIS, Azure DevOps.
+
+---
+
+### **Web Developer**  
+🏬 **Koein** | 📅 **03/2014 - 08/2016** | 📍 **Beirut, Lebanon**  
+
+- Launched **4 high-traffic websites**, each serving **100,000+ users**.
+- Engineered robust **back-end integrations**, optimizing data flow and improving **system efficiency**.
+
+**Tech Stack:** C#/.NET, PHP, Angular, SQL Server, IIS, Azure DevOps.
+
+---
+
+### **Web Developer Intern**  
+🏬 **OSITCOM Ltd** | 📅 **09/2013 - 02/2014** | 📍 **Beirut, Lebanon**  
+
+- Developed **4 high-performance websites** serving **250,000+ users**.
+- Streamlined **data integration** from multiple back-end services.
+
+**Tech Stack:** PHP, MySQL, HTML, CSS, JavaScript.
+
+---
+
+## 🗨️ Languages
+
+- **English:** Full Professional Proficiency (**C1**)
+- **Arabic:** Native Proficiency (**C2**)
+- **German:** Elementary Proficiency (**B1**)
+
+---
+
+## 🎓 Education
+
+### **M.Sc in Computer Science - Information Systems and Data Intelligence**
+📍 **Lebanese University - Faculty of Sciences**
+
+### **B.Eng in Computer Science - Information Systems and Software Engineering**
+📍 **Damascus University - Faculty of Information Technology Engineering**
