@@ -56,7 +56,7 @@ Lead Software Engineer with **13+ years** of expertise in designing and scaling 
 
 ## **👩🏻‍💻 Work Experience**
 
-### **Lead Software Engineer / Software Engineer III (L3)**  
+### **Lead Software Engineer (L3)**  
 🏬 **Wayfair** | 📅 **07/2022 - Present** | 📍 **Berlin, Germany**  
 
 **Achievements:**
