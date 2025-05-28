@@ -81,7 +81,7 @@ Lead Software Engineer with **13+ years** of expertise in designing and scaling 
 ---
 
 ### **Senior Full Stack Software Engineer**  
-🏬 **CME Offshore** | 📅 **12/2019 - 06/2022** | 📍 **Beirut, Lebanon**  
+🏬 **CME Offshore** | 📅 **12/2017 - 11/2019** | 📍 **Beirut, Lebanon**  
 
 **Key Projects:**
 - **(Contractor with Subway)** Built a **large-scale menu tracking microservice**, cutting **menu update time from hours to seconds** and improving **order accuracy by 40%** across **37,000+ locations**.
@@ -92,7 +92,7 @@ Lead Software Engineer with **13+ years** of expertise in designing and scaling 
 ---
 
 ### **Full Stack Software Engineer**  
-🏬 **BSynchro** | 📅 **12/2017 - 11/2019** | 📍 **Beirut, Lebanon**  
+🏬 **BSynchro** | 📅 **11/2014 - 08/2016** | 📍 **Beirut, Lebanon**  
 
 - Developed a **high-performance approval pipeline** for **SGBL Bank**, streamlining **10,000+ approvals/month**.
 - Built a **policy issuance pipeline** for **Libano-Suisse Insurance**, processing **7,000+ policies annually**.
